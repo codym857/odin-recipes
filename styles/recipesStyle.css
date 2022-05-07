@@ -1,0 +1,15 @@
+.heading{
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-img{
+    width: 240px;
+    height: auto;
+}
+
+h2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
